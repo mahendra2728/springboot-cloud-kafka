@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        output:
+          destination: test_1
+#        input:
+#          destination: test_1
